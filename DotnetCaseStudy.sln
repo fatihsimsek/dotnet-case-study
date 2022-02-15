@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetJwt.WebApi", "DotnetJwt.WebApi\DotnetJwt.WebApi.csproj", "{4F6F7DD1-5AA7-422E-A144-AF76203B71A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetJwt.Test", "DotnetJwt.Test\DotnetJwt.Test.csproj", "{5E67A0D5-1771-4753-AE3F-7D8D1D7CBF95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6F7DD1-5AA7-422E-A144-AF76203B71A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6F7DD1-5AA7-422E-A144-AF76203B71A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6F7DD1-5AA7-422E-A144-AF76203B71A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6F7DD1-5AA7-422E-A144-AF76203B71A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E67A0D5-1771-4753-AE3F-7D8D1D7CBF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E67A0D5-1771-4753-AE3F-7D8D1D7CBF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E67A0D5-1771-4753-AE3F-7D8D1D7CBF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E67A0D5-1771-4753-AE3F-7D8D1D7CBF95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
